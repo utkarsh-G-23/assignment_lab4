@@ -4,4 +4,4 @@ Start_Time = [100,234,189,9,7,23]
 Priority = ["MID","MID","High","High","High","Low"]
 
 def print_menu():
-    print("Select which parameter you want to SORT the data on? ()")
+    print("Select which parameter you want to SORT the data on? (1-4)")
